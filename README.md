@@ -40,4 +40,6 @@ You've created a new ASP.NET Core project. [Learn what's new](https://go.microso
 
 *   [create the template]  oc create -f aspnet-api-s2i-template.json
 *   [Create a new application based on the template] oc new-app --template aspnet-custom-api
+*   [Invoke the api service] methds GET /api/values ...
+
 
