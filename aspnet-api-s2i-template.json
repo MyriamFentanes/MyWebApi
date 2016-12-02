@@ -313,7 +313,7 @@ d": "Template",
             "description": "The URL of the repository with your application source code.",
             "displayName": "Git URI",
             "required": true,
-            "value": "https://github.com/MyriamFentanes/FirstWebApplication.git"
+            "value": "https://github.com/MyriamFentanes/MyWebApi.git"
         },
         {
             "name": "GIT_REF",
